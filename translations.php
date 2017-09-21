@@ -25,7 +25,7 @@ if($_GET["uselang"] == "xxx") {
   $i18nTmp4 = "অনুবাদ";
   $i18nTmp4txt = "উইকিমিডিয়া কমন্স একটি [[https://commons.wikimedia.org/wiki/Commons:Language_policy|বহুভাষা প্রকল্প]]। আপনি ইংরেজির বাইরে অন্য ভাষায় [[https://commons.wikimedia.org/wiki/Special:LanguageStats|পাতা অনুবাদ]] করে সাহায্য করতে পারেন। উদাহরণস্বরুপ: [[https://commons.wikimedia.org/wiki/Template:Potd|আজকের নির্বাচিত চিত্রের বর্ণনা]] অনুবাদ করুন।";
   $i18nTmp5 = "ধ্বংসপ্রবণতা";
-  $i18nTmp5txt = "উইকিমিডিয়া কমন্স এমন একটি উইকি যেটা সবাই সম্পাদনা করতে পারেন। [[https://commons.wikimedia.org/wiki/COM:CVU|ধ্বংসপ্রবণা]] রোধ করতে এবং [[https://commons.wikimedia.org/wiki/Commons:How_to_detect_copyright_violations|কপিরাইট সমস্যা]] খুঁজে বের করতে সাহায্য করুন।";
+  $i18nTmp5txt = "উইকিমিডিয়া কমন্স এমন একটি উইকি যেটা সবাই সম্পাদনা করতে পারেন। [[https://commons.wikimedia.org/wiki/COM:CVU|ধ্বংসপ্রবণতা]] রোধ করতে এবং [[https://commons.wikimedia.org/wiki/Commons:How_to_detect_copyright_violations|কপিরাইট সমস্যা]] খুঁজে বের করতে সাহায্য করুন।";
   $i18nTmp6 = "কোডিং";
   $i18nTmp6txt = "ব্যবহারকারী স্ক্রিপ্ট [[https://commons.wikimedia.org/wiki/Commons:User_scripts|উন্নয়নে]] সাহায্য করুন &amp; সম্প্রদায়ের সরঞ্জাম, বা এ সম্পর্কিত কিছু [[https://phabricator.wikimedia.org/tag/commons/|মিডিয়াউইকি বাগ]]।";
   $i18nTsource = "উৎস দেখুন / সম্পাদনা";
@@ -48,7 +48,7 @@ if($_GET["uselang"] == "xxx") {
     "ছবিতে বিষয়শ্রেণী [[Category:Media_needing_categories|যোগ]] করুন",
     "[[COM:Vandalism|ধ্বংসপ্রবণতা খুঁজুন ও বাতিল করুন]] ([[Commons:Counter_Vandalism_Unit|ধ্বংসপ্রবণতা প্রতিরোধ ইউনিট]])",
     "পাতা [[Special:LanguageStats|অনুবাদে]] সাহায্য করুন",
-    "[[Category:Unidentified_subjects|অজানা বিষয়কে]] শনাক্তকরণে করতে সাহায্য করুন",
+    "[[Category:Unidentified_subjects|অজানা বিষয়কে]] শনাক্তকরণে সাহায্য করুন",
     "[[Special:WantedCategories|প্রয়োজনীয় বিষয়শ্রেণী তৈরি করুন]]",
     "[[Special:UploadWizard|আপনার চিত্র আপলোড করুন]]",
     "[[Template:Potd|আজকের নির্বাচিত চিত্রের]] বর্ণনা ইংরেজি ব্যতীত অন্য ভাষায় অনুবাদ করুন ",
